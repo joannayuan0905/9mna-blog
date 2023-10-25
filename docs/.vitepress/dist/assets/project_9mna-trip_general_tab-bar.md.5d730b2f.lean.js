@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./app.c367fe43.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"project/9mna-trip/general/tab-bar.md","lastUpdated":1697314834000}'),r={name:"project/9mna-trip/general/tab-bar.md"};function n(o,c,s,p,d,i){return a(),e("div")}const l=t(r,[["render",n]]);export{m as __pageData,l as default};
