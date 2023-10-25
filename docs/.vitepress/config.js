@@ -130,9 +130,8 @@ export default {
       },
   },
   srcDir: './src',
-  srcExclude: ['**/README.md', '**/TODO.md'],
   outDir: '../public',
   assetsDir: 'static',
-  cacheDir: './.vitepress/.vite',
   ignoreDeadLinks: true,
+  base: "/9mna-blog/",
 };
