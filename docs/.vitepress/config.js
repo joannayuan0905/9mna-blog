@@ -130,8 +130,8 @@ export default {
       },
   },
   srcDir: './src',
-  outDir: '../public',
-  assetsDir: 'static',
-  ignoreDeadLinks: true,
+//   outDir: '../public',
+//   assetsDir: 'static',
+//   ignoreDeadLinks: true,
   base: "/9mna-blog/",
 };
