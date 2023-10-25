@@ -129,4 +129,10 @@ export default {
           copyright: 'Copyright © 2023-present <a href="https://gitlab.com/joannayuan0905">Joanna Yuan</a>',
       },
   },
+  srcDir: './src',
+  srcExclude: ['**/README.md', '**/TODO.md'],
+  outDir: '../public',
+  assetsDir: 'static',
+  cacheDir: './.vitepress/.vite',
+  ignoreDeadLinks: true,
 };
