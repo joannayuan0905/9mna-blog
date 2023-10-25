@@ -133,5 +133,5 @@ export default {
 //   outDir: '../public',
 //   assetsDir: 'static',
 //   ignoreDeadLinks: true,
-  base: "/9mna-blog/",
+  base: "/",
 };
